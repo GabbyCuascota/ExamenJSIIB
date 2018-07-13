@@ -14,11 +14,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="modelosph.component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="modelosph.component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/modelosph/modelosph.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="99" column="14" lean-forward="true" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+            <state relative-caret-position="208">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -32,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="atributosp.component.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="atributosp.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/src/app/atributosp/atributosp.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="80" column="31" selection-end-line="134" />
+            <state relative-caret-position="1534">
+              <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -63,9 +72,7 @@
         <option value="$PROJECT_DIR$/backend/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/backend/src/index.html" />
         <option value="$PROJECT_DIR$/backend/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/frontend/src/index.html" />
         <option value="$PROJECT_DIR$/frontend/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/frontend/src/app/login/login.component.html" />
         <option value="$PROJECT_DIR$/frontend/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/frontend/src/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/frontend/src/app/modelo-papa/modelo-papa.component.html" />
@@ -74,8 +81,10 @@
         <option value="$PROJECT_DIR$/frontend/src/app/app.routes.ts" />
         <option value="$PROJECT_DIR$/frontend/src/app/anadircarrito/anadircarrito.component.html" />
         <option value="$PROJECT_DIR$/frontend/src/app/completarorden/completarorden.component.html" />
-        <option value="$PROJECT_DIR$/frontend/src/app/modelosph/modelosph.component.html" />
         <option value="$PROJECT_DIR$/frontend/src/app/atributosp/atributosp.component.html" />
+        <option value="$PROJECT_DIR$/frontend/src/app/login/login.component.html" />
+        <option value="$PROJECT_DIR$/frontend/src/index.html" />
+        <option value="$PROJECT_DIR$/frontend/src/app/modelosph/modelosph.component.html" />
       </list>
     </option>
   </component>
@@ -131,30 +140,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ExamenJSIIB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamenJSIIB" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="anadircarrito" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamenJSIIB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamenJSIIB" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="atributosp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExamenJSIIB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExamenJSIIB" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="modelosph" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -206,15 +191,15 @@
       <workItem from="1531361038379" duration="2970000" />
       <workItem from="1531407220124" duration="3162000" />
       <workItem from="1531417728778" duration="8849000" />
-      <workItem from="1531431477057" duration="6666000" />
+      <workItem from="1531431477057" duration="8593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23192000" />
+    <option name="totallyTimeSpent" value="25119000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
@@ -402,24 +387,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-156">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/login/login.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -465,13 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/anadircarrito/anadircarrito.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/app/app.routes.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -482,17 +446,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/modelosph/modelosph.component.html">
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/atributosp/atributosp.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="99" column="14" lean-forward="true" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
+        <state relative-caret-position="1534">
+          <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/src/app/atributosp/atributosp.component.html">
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/login/login.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="80" column="31" selection-end-line="134" />
+        <state relative-caret-position="216">
+          <caret line="31" column="51" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/anadircarrito/anadircarrito.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/modelosph/modelosph.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
