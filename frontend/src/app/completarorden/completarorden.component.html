@@ -12,14 +12,56 @@
     <br>
     <h3>Datos de la cuenta: </h3>
   </div>
+
+  <div class="col-sm-2">Nombre:</div>
+  <div class="col-sm-6">
+    <input type="Nombre1" class="form-control" id="exampleInputNombre1" placeholder="Ingrese su Nombre">
+  </div>
+  <div class="col-sm-4"></div>
+
+  <div class="col-sm-2">Apellido:</div>
+  <div class="col-sm-6">
+    <input type="Apellido2" class="form-control" id="exampleInputApellido2" placeholder="Ingrese su Apellido">
+  </div>
+  <div class="col-sm-4"></div>
+
+  <div class="col-sm-2">E-mail:</div>
+  <div class="col-sm-6">
+    <input type="text" class="form-control" placeholder="e-mail@example.com" aria-label="Recipient's username"
+           aria-describedby="basic-addon2">
+  </div>
+  <div class="col-sm-4"></div>
   <div class="col-sm-12" class="centered">
+    <br>
     <button type="button" class="btn btn-success">Completar la orden</button>
   </div>
   <div class="col-sm-12">
     <br>
     <h3>Datos de la facturación: </h3>
   </div>
+
+  <div class="col-sm-2">Nombre:</div>
+  <div class="col-sm-6">
+    <input type="Nombre" class="form-control" id="exampleInputNombre" placeholder="Ingrese su Nombre">
+  </div>
+  <div class="col-sm-4"></div>
+
+  <div class="col-sm-2">Apellido:</div>
+  <div class="col-sm-6">
+    <input type="Apellido" class="form-control" id="exampleInputApellido" placeholder="Ingrese su Apellido">
+  </div>
+  <div class="col-sm-4"></div>
+
+  <div class="col-sm-2">E-mail:</div>
+  <div class="col-sm-6">
+    <input type="text" class="form-control" placeholder="e-mail@example.com" aria-label="Recipient's username"
+           aria-describedby="basic-addon2">
+  </div>
+  <div class="col-sm-4"></div>
+
+
   <div class="col-sm-12" class="centered">
+    <br>
     <button type="button" class="btn btn-warning">Editar Datos de la Facturación</button>
   </div>
 
@@ -35,16 +77,20 @@
         <tr>
           <td> Pokemon1</td>
           <td> 2.00$</td>
-          <td>
-            <button type="button" class="btn btn-success">Eliminar</button>
-          </td>
+          <a [routerLink]="['/modelohijo']">
+            <td>
+              <button type="button" class="btn btn-success">Eliminar</button>
+            </td>
+          </a>
         </tr>
         <tr>
           <td> Pokemon2</td>
           <td> 4.00$</td>
-          <td>
-            <button type="button" class="btn btn-success">Eliminar</button>
-          </td>
+          <a [routerLink]="['/modelohijo']">
+            <td>
+              <button type="button" class="btn btn-success">Eliminar</button>
+            </td>
+          </a>
         </tr>
       </table>
     </div>
